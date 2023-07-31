@@ -1,2 +1,2 @@
-# Splash Page
- creating a splash page for 'habitual'
+# JavaScript Projects
+ Creating some beginners projects using JS
